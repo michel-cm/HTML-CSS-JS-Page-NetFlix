@@ -103,3 +103,16 @@ header nav a:hover{
 .carrosel-filmes{
     margin-top: 5px;
 }
+
+
+footer, footer a {
+    list-style: none;
+    text-decoration: none;
+    background-color: #222;
+    height: 60px;
+    color: #fff;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
